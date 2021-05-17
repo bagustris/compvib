@@ -6,6 +6,7 @@ Tools: Python, Calfem-python, Numpy, Scipy
 
 ### Week 9  
 Prerequisite:  
+- Day / Date: Thursday / 2021-05-20
 - Read text book: Chapter 3, Appendix A, B, C
 - URL for course: XXX
 
