@@ -1,2 +1,2 @@
 # compvib
-Resources for teaching class "computational vibration" at engineering physics ITS
+Resources for course "computational vibration" at engineering physics ITS
