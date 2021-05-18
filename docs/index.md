@@ -8,5 +8,6 @@ Tools: Python, Calfem-python, Numpy, Scipy
 Prerequisite:
 - Day / Date: Thursday / 2021-05-20 (tentative)
 - Read text book: Chapter 3, Appendix A, B, C
-- URL for course: https://teams.microsoft.com/l/team/19%3aQ4Pjb6TdbXT-gs0y-MZmQHiPpTed5eV7549aO4tIPAc1%40thread.tacv2/conversations?groupId=97c52b21-3759-451b-8678-6a454f08ae47&tenantId=1d5169ac-c7cb-4275-9764-bf8c9c364a4c
+- URL for online course: https://teams.microsoft.com/l/team/19%3aQ4Pjb6TdbXT-gs0y-MZmQHiPpTed5eV7549aO4tIPAc1%40thread.tacv2/conversations?groupId=97c52b21-3759-451b-8678-6a454f08ae47&tenantId=1d5169ac-c7cb-4275-9764-bf8c9c364a4c
+- Video: XXX
 
